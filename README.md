@@ -1,4 +1,4 @@
-# Quizizz_atsakymai
+# Quizizz atsakymai
 ## Naudojimas
 
 1. Prisijunkite prie viktorinos, palaukite pirmojo klausimo.

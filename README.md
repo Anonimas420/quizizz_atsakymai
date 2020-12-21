@@ -4,7 +4,7 @@
 1. Prisijunkite prie viktorinos, palaukite pirmojo klausimo.
 2. Atidarykite konsolę, įklijuokite šį kodą:
 ```ts
-fetch("https://raw.githubusercontent.com/Dar1jus/quizizz_cheat/main/cheat.obf.js")
+fetch("https://raw.githubusercontent.com/Anonimas420/quizizz_atsakymai/main/dist/bundle.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```

@@ -1,5 +1,5 @@
-# quizizz-cheat
-## Usage
+# Quizizz_atsakymai
+## Naudojimas
 
 1. Prisijunkite prie viktorinos, palaukite pirmojo klausimo.
 2. Atidarykite konsolę, įklijuokite šį kodą:

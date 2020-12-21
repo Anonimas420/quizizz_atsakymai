@@ -13,4 +13,4 @@ fetch("https://raw.githubusercontent.com/Anonimas420/quizizz_atsakymai/main/dist
 
 
 Kaip matome šioje ekrano kopijoje, atsakymas **Centimetras** turi didžiausią neskaidrumą, tai reiškia, kad jis galioja.
-![screenshot](/docs/Screenshot_1.jpg)
+![screenshot](/docs/screenshot_1.png)
